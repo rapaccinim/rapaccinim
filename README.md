@@ -10,7 +10,7 @@
 ## What
 ✔️ The fundamentals: HTML, CSS, JavaScript, jQuery, PHP, Git, Sass
 
-⚛️ Learning by doing: React framework, TypeScript and Node.js
+⚛️ Learning by doing: React, TypeScript and Node.js
 
 ✔️ Embedded Systems: C/Arduino, C++, Qt
 
