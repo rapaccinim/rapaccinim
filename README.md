@@ -39,6 +39,8 @@
 
 ✍️ Sometime I write things on [Medium](https://rapaccinim.medium.com/)
 
+🤔 I know, my GitHub looks a bit empty. Why? Because I often was under NDA, so you understand that it wasn't possibile for me to publish or replicate code. But I promise I will publish here my personal projects more often, so you can understand better how I like to code.
+
 ## Let's connect
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
