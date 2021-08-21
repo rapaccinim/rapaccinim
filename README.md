@@ -1,16 +1,18 @@
 # Hello there 👋 it's-a me, Marco!
 
 ## About
-💻 I'm Marco Rapaccini, a **remote web developer** with 5+ years experience
+💻 I'm Marco Rapaccini, a **remote web & product developer** with 5+ years experience
 
-🚀 I'm also an IT consultant for SMEs and **startups** that want to accelerate their digital growth and internal processes
+🚀 I'm in love with **R&D** and I am a **startup** enthiusiast
 
-🥼 I work mainly in FinTech 💹, FashionTech 👜 and AeroSpace 🛰️ industries
+🥼 I work 70% in FinTech 💹, 25% in FashionTech 👜 and 5% in AeroSpace 🛰️ industry
 
 ## What
-✔️ The fundamentals: HTML, CSS, JavaScript, jQuery, PHP, Git, Sass
+✔️ My favourite web dev stuff: HTML, CSS, JavaScript, React, TypeScript, Styled Components, Material UI, Leaflet
 
-⚛️ Learning by doing: React, TypeScript and Node.js
+✔️ Other web dev stuff: jQuery, PHP, Git, CMS WordPress
+
+⚛️ Learning by doing: Node.js
 
 ✔️ Embedded Systems: C/Arduino, C++, Qt
 
@@ -20,13 +22,11 @@
 
 ✔️ Tools: Figma, Canva, Google Workspace, Notion
 
-✔️ CMSs: WordPress, Webflow
-
 ✔️ Operative Systems: Linux, Windows
 
 ✔️ System Documentation: SSS, SRS, SSDD, MIL-STD-498
 
-🗣️ Languages: English, Italian and Spanish
+🗣️ Languages: English, Italian (native language) and Spanish
 
 ## Why
 ✨ Because technology – to paraphrase Marinetti – will help man to hurl new challenges at the stars
@@ -35,13 +35,14 @@
 🌐 I work remotely from United Kingdom, Italy and some other cool places in the world
 
 ## More
-🦄 I cofounded an Italian FashionTech startup that develops smart accessories and helps independent brands to stand out
+🦄 I cofounded an Italian FashionTech startup that develops [smart accessories](https://www.clutchebag.com/) and helps fashion brands to innovate
 
-✍️ Sometime I write things on [Medium](https://rapaccinim.medium.com/)
+✍️ I write things on [Medium](https://rapaccinim.medium.com/)
 
-🤔 I know, my GitHub looks a bit empty. Why? Because I often was under NDA, so you understand that it wasn't possibile for me to publish or replicate code. But I promise I will publish here my personal projects more often, so you can understand better how I like to code.
+🤔 I know, my GitHub looks a bit empty. Why? Because I often was under NDA, so you understand that it wasn't possibile for me to publish or replicate code. But I promise I will publish here my personal projects more often, so you can understand better how I like to code
 
 ## Let's connect
+* [Website](https://www.webproduct.dev/)
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
 
