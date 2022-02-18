@@ -1,48 +1,68 @@
 # Hello there 👋 it's-a me, Marco!
 
-## About
-💻 I'm Marco Rapaccini, a **remote web & product developer** with 5+ years experience
+## About me
+💻 I'm Marco Rapaccini, a **remote web engineer** with 6 years of experience in tech companies
 
-🚀 I'm in love with **R&D** and I am a **startup** enthiusiast
+🚀 I'm in love with **R&D** and I am a **startup** enthiusiast (so much that I cofounded [one](https://www.clutchebag.com/) 🦄)
 
-🥼 I work 70% in FinTech 💹, 25% in FashionTech 👜 and 5% in AeroSpace 🛰️ industry
+⚙️ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
-## What
-✔️ My favourite web dev stuff: HTML, CSS, JavaScript, React, TypeScript, Styled Components, Material UI, Leaflet
+🥼 I work with international teams in the following industries:
+* 💹 FinTech
+* 👜 FashionTech
+* 🛰️ AeroSpace
 
-✔️ Other web dev stuff: jQuery, PHP, Git, CMS WordPress
+## What I do
+✔️ **Web Dev Stack**
+* JavaScript
+* TypeScript
+* React
+* Okta
+* D3.js
+* Material UI
+* Styled Components
+* Here API
+* Leaflet
 
-⚛️ Learning by doing: Node.js
+✔️ **Other web dev technologies**
+* Node.js
+* PHP
 
-✔️ Embedded Systems: C/Arduino, C++, Qt
+✔️ **Tools & Platforms**
+* Google Cloud Platform
+* Azure DevOps
+* Google Workspace
+* Figma
+* Notion
+* ClickUp
 
-✔️ DBs: MySQL, Neo4j
+✔️ **CMS & Databases**
+* WordPress
+* Neo4j
+* MySQL
 
-✔️ Platforms: Google Cloud Platform, Azure DevOps
+✔️ **Embedded & OS**
+* C/C++
+* Arduino
+* Linux
+* Windows
 
-✔️ Tools: Figma, Canva, Google Workspace, Notion
+🗣️ Languages:
+* English
+* Italian (native language)
+* Spanish
 
-✔️ Operative Systems: Linux, Windows
-
-✔️ System Documentation: SSS, SRS, SSDD, MIL-STD-498
-
-🗣️ Languages: English, Italian (native language) and Spanish
-
-## Why
+## Why I do
 ✨ Because technology – to paraphrase Marinetti – will help man to hurl new challenges at the stars
 
-## Where
+## From where I do
 🌐 I work remotely from United Kingdom, Italy and some other cool places in the world
 
-## More
-🦄 I cofounded an Italian FashionTech startup that develops [smart accessories](https://www.clutchebag.com/) and helps fashion brands to innovate
-
+## More about me
 ✍️ I write things on [Medium](https://rapaccinim.medium.com/)
 
-🤔 I know, my GitHub looks a bit empty. Why? Because I often was under NDA, so you understand that it wasn't possibile for me to publish or replicate code. But I promise I will publish here my personal projects more often, so you can understand better how I like to code
-
 ## Let's connect
-* [Website](https://www.webproduct.dev/)
+* [Website](https://www.webproduct.dev/) - of course, still in development...
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
 
