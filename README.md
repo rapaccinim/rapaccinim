@@ -1,69 +1,84 @@
-# Hello there 👋 it's-a me, Marco!
+# Marco Rapaccini
+## Senior Software Engineer && Technical Cofounder
+## Tl;dr:
+A Senior Software Engineer in love with web engineering, product development, R&D and international teams
 
-## About me
-💻 I'm Marco Rapaccini, a **remote web engineer** with 6 years of experience in tech companies
+## About
+💻 I'm Marco Rapaccini, a **human being** working in tech since 2016
 
-🚀 I'm in love with **R&D** and I am a **startup** enthiusiast (so much that I cofounded [one](https://www.clutchebag.com/) 🦄)
+🚀 I'm in love with **R&D** and startups
 
-⚙️ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
+⚙ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
-🥼 I work with international teams in the following industries:
-* 💹 FinTech
-* 👜 FashionTech
-* 🛰️ AeroSpace
+🥼 I have worked mainly in FinTech, FashionTech and Aerospace industries
 
-## What I do
-✔️ **Web Dev Stack**
+## What I am currently doing
+* Senior Software Engineer at [Transaction 360 Degrees LTD](https://t360degrees.com)
+  * building from scratch a FinTech startup tech stack
+  * migrating a _legacy_ MVP into a fully working product
+* Senior Frontend Developer at [Citizens Advice](https://citizensadvice.org.uk)
+  * helping the [Casebook](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4)
+team to handle the case management system of one of the largest charities in the UK
+  * learning by doing _Ruby on Rails_
+* Technical Co-Founder at [Clutch-e Bag](https://www.clutchebag.com)
+  * building from scratch a FashionTech startup business + tech stack
+  * creating a wearable MVP
+  * patents
+  * supply chain management
+* Writing an Ebook with [Laura Paveglio](https://readthefmanual.it/) about Designers-Devs collaboration
+* Starting a business for importing typical products from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy
+into the UK
+* [Stealth] Creating a security management system for a logistic company
+
+## Stuff I know
 * JavaScript
 * TypeScript
 * React
 * Okta
-* D3.js
+* Linux bash
+* Node.js (slow)
+* Google Cloud Platform and Workspace
+* Neo4j
+* D3.js (fun)
 * Material UI
 * Styled Components
+* PHP (boring)
 * Here API
 * Leaflet
+* SQL
 
-✔️ **Other web dev technologies**
-* Node.js
-* PHP
+## Stuff I am learning
+* Ruby on Rails
+* Rust
+* Cucumber
+* Work with machines that are not connected to a network
 
-✔️ **Tools & Platforms**
-* Google Cloud Platform
-* Azure DevOps
-* Google Workspace
-* Figma
-* Notion
-* ClickUp
-
-✔️ **CMS & Databases**
-* WordPress
-* Neo4j
-* MySQL
-
-✔️ **Embedded & OS**
-* C/C++
-* Arduino
-* Linux
-* Windows
-
-🗣️ Languages:
+## Human Languages
 * English
 * Italian (native language)
-* Spanish
+* Spanish**
 
-## Why I do
-✨ Because technology – to paraphrase Marinetti – will help man to hurl new challenges at the stars
+## Why
+✨ Because technology – to paraphrase [Marinetti](https://www.youtube.com/watch?v=YFPIP9NxU30) –
+will help man to
+> hurl new challenges at the stars
 
-## From where I do
-🌐 I work remotely from United Kingdom, Italy and some other cool places in the world
+## Where
+🌐 I live in the UK, but I love to come back to Italy every 6 months
 
-## More about me
-✍️ I write things on [Medium](https://rapaccinim.medium.com/)
+## Hobbies
+* Reading
+* Lego
+* Re-watching _The Office_ (USA version)
+* Hiking
+* Boxing (missing real training 😔)
+
+## Blog
+✍ I write things on [Medium](https://rapaccinim.medium.com/)
 
 ## Let's connect
 * [Website](https://www.webproduct.dev/) - of course, still in development...
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
 
-🙏 Thank you for reading!
+👋 Have a nice day folks!
