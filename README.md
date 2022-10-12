@@ -26,7 +26,7 @@ team to handle the case management system of one of the largest charities in the
   * patents
   * supply chain management
 * Writing an Ebook with [Laura Paveglio](https://readthefmanual.it/) about Designers-Devs collaboration
-* Starting a business for importing typical products from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy
+* Starting [a business](https://umbriagreenheart.co.uk/) for importing typical products from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy
 into the UK
 * [Stealth] Creating a security management system for a logistic company
 
@@ -51,12 +51,13 @@ into the UK
 * Ruby on Rails
 * Rust
 * Cucumber
+* Jenkins
 * Work with machines that are not connected to a network
 
 ## Human Languages
 * English
 * Italian (native language)
-* Spanish**
+* Spanish
 
 ## Why
 ✨ Because technology – to paraphrase [Marinetti](https://www.youtube.com/watch?v=YFPIP9NxU30) –
@@ -77,7 +78,7 @@ will help man to
 ✍ I write things on [Medium](https://rapaccinim.medium.com/)
 
 ## Let's connect
-* [Website](https://www.webproduct.dev/) - of course, still in development...
+* [Website](https://www.webproduct.dev/)
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
 
