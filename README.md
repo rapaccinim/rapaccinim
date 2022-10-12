@@ -30,6 +30,9 @@ team to handle the case management system of one of the largest charities in the
 into the UK
 * [Stealth] Creating a security management system for a logistic company
 
+## My public contributions
+You can find [here](./public-contributions/marco-rapaccini-public-contributions.md) a list of interesting contributions and articles.
+
 ## Stuff I know
 * JavaScript
 * TypeScript
