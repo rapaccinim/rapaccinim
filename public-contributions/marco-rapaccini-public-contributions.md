@@ -1,5 +1,7 @@
 # Marco Rapaccini - Public Contributions
 ## GitHub Contributions
+* `parcel-bundler`, update the React recipe
+  * [issue](https://github.com/parcel-bundler/website/issues/1049)
 * scrollable _vanilla_ modal
   * [repo](https://github.com/rapaccinim/scrollable-vanilla-modal)
   * [Medium article](https://rapaccinim.medium.com/how-to-create-a-custom-resizable-modal-with-scrollable-and-fixed-content-21adb2adda28)
