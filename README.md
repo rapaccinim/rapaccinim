@@ -38,6 +38,7 @@ You can find [here](./public-contributions/marco-rapaccini-public-contributions.
 * TypeScript
 * React
 * Okta
+* Next.js
 * Bash scripting
 * Node.js (not my favourite)
 * Google Cloud Platform and Workspace
