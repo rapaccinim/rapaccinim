@@ -10,13 +10,11 @@ A Senior Software Engineer in love with web engineering, product development, R&
 
 ⚙ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
-🥼 I have worked mainly in FinTech, FashionTech and Aerospace industries
-
 ## What I am currently doing
 * Senior Frontend Developer at [Citizens Advice](https://citizensadvice.org.uk)
   * helping the [Casebook](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4)
 team to maintain and improve the case management system of one of the largest charities in the UK
-  * learning by doing _Ruby on Rails_
+  * learning by doing Ruby/Ruby on Rails
 * Technical Co-Founder at [Clutch-e Bag](https://www.clutchebag.com)
   * building from scratch a FashionTech startup business + tech stack
   * creating a wearable MVP
@@ -26,12 +24,36 @@ team to maintain and improve the case management system of one of the largest ch
 * Starting [a business](https://umbriagreenheart.co.uk/) for importing typical products from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy
 into the UK
 * [Stealth] Creating a security management system for a logistic company
-* Senior Software Engineer at [Transaction 360 Degrees LTD](https://t360degrees.com)
-  * building from scratch a FinTech startup tech stack
-  * migrating a _legacy_ MVP into a fully working product
+
+## Previous Working Experience
+### Transaction 360 Degrees LTD
+* **Senior Software Engineer** at [Transaction 360 Degrees LTD](https://t360degrees.com)
+* Aug 2020 - Sep 2022
+* Creating from scratch Fintech MVPs working closely with the business team and SW architect 
+* R&D about new integrations (e.g. Symphony financial secure messaging app)
+* Technologies:
+  * TypeScript
+  * React
+  * Google Cloud Platform
+  * Okta
+* Moving to serverless and micro-services
+* Onboarding and mentoring new developers
+### Contract Web Development
+* Italy-based freelance activity as web developer, working mainly for Italian SMEs and research centers
+* Nov 2018 - Nov 2021
+* Some clients/projects:
+  * [Water Resources Research & Documentation Centre](https://warredoc-unistrapg.org/en/)
+at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
+  * [University of Tuscia](https://unitusorienta.unitus.it/en/homepage/)
+  * [Nuova Guseo](https://www.nuovaguseo.eu/en/)
+  * [Ermesat](https://www.sabaerospace.it/ermesat/)
+  * [Simecom](https://www.simecom.it/)
+### Lacuna Solutions
+* Web UI Developer
+* Sep 2016 - Jul 2017
 
 ## My public contributions
-You can find [here](./public-contributions/marco-rapaccini-public-contributions.md) a list of interesting contributions and articles.
+You can find [here](./public-contributions/marco-rapaccini-public-contributions.md) a list of my contributions and articles.
 
 ## Stuff I know
 * JavaScript
@@ -53,8 +75,9 @@ You can find [here](./public-contributions/marco-rapaccini-public-contributions.
 * SQL
 
 ## Stuff I am learning
-* Ruby on Rails
+* Ruby/Ruby on Rails
 * Web Accessibility
+* Web Assembly
 * Rust
 * AWS
 * Cucumber

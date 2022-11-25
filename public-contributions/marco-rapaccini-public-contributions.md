@@ -1,5 +1,7 @@
 # Marco Rapaccini - Public Contributions
 ## GitHub Contributions
+* `rbenv`, Ruby version is still the System one on MacOS
+  * [solution comment](https://github.com/rbenv/rbenv/issues/879#issuecomment-1327345988)
 * `parcel-bundler`, update the React recipe
   * [issue](https://github.com/parcel-bundler/website/issues/1049)
 * scrollable _vanilla_ modal
