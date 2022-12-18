@@ -1,4 +1,7 @@
 # Marco Rapaccini - Public Contributions
+## Talks and Guest Lectures
+* [Epicode](https://epicode.com/en/) - 16 Dec 2022
+  * Given a guest lecture about _Software Engineering: an Approach to Life_
 ## GitHub Contributions
 * `rbenv`, Ruby version is still the System one on MacOS
   * [solution comment](https://github.com/rbenv/rbenv/issues/879#issuecomment-1327345988)
