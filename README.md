@@ -11,7 +11,7 @@ A Senior Software Engineer in love with web engineering, product development, R&
 ⚙ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
 ## What I am currently doing
-* Senior Frontend Developer at [Citizens Advice](https://citizensadvice.org.uk)
+* Senior Software Engineer at [Citizens Advice](https://citizensadvice.org.uk)
   * helping the [Casebook](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4)
 team to maintain and improve the case management system of one of the largest charities in the UK
   * learning by doing Ruby/Ruby on Rails
@@ -23,7 +23,8 @@ team to maintain and improve the case management system of one of the largest ch
 * Writing an Ebook with [Laura Paveglio](https://readthefmanual.it/) about Designers-Devs collaboration
 * Starting [a business](https://umbriagreenheart.co.uk/) for importing typical products from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy
 into the UK
-* [Stealth] Creating a security management system for a logistic company
+* [Contractor] Creating a security management system for [a logistic company](https://www.lte-group.eu/en/Contact/LTE-Italia-Srl.htm)
+* [Contractor] Custom Amazon Alexa Skills development for the [Italian Folklore Museum](https://museoimmaginario.net/immaginario/en/)
 
 ## Previous Working Experience
 ### Transaction 360 Degrees LTD
@@ -48,6 +49,8 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
   * [Nuova Guseo](https://www.nuovaguseo.eu/en/)
   * [Ermesat](https://www.sabaerospace.it/ermesat/)
   * [Simecom](https://www.simecom.it/)
+  * [Federica Mastro](https://dottoressamastro.com/)
+  * [Dovely](https://dovely.it/?lang=en)
 ### Lacuna Solutions
 * Web UI Developer
 * Sep 2016 - Jul 2017
@@ -73,6 +76,7 @@ You can find [here](./public-contributions/marco-rapaccini-public-contributions.
 * Here API
 * Leaflet
 * SQL
+* WordPress
 
 ## Stuff I am learning
 * Ruby/Ruby on Rails
