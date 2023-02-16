@@ -1,2 +1,5 @@
 # IntelliJ-based IDEs
 .idea/
+
+# Yarn folder
+.yarn/
