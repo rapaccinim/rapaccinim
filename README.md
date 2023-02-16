@@ -56,7 +56,8 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
 * Sep 2016 - Jul 2017
 
 ## My public contributions
-You can find [here](./public-contributions/marco-rapaccini-public-contributions.md) a list of my contributions and articles.
+You can find [here](https://github.com/rapaccinim/rapaccinim/blob/main/public-contributions/marco-rapaccini-public-contributions.md)
+a list of my contributions and articles.
 
 ## Stuff I know
 * JavaScript
