@@ -4,11 +4,11 @@
 A Senior Software Engineer in love with web engineering, product development, R&D and international teams
 
 ## About
-💻 I'm Marco Rapaccini, a **human being** working in tech since 2016
+I'm Marco Rapaccini, a **human being** working in tech since 2016
 
-🚀 I'm in love with **R&D** and startups
+I'm in love with **R&D** and startups
 
-⚙ I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
+I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
 ## What I am currently doing
 * Senior Software Engineer at [Citizens Advice](https://citizensadvice.org.uk)
@@ -100,7 +100,7 @@ will help man to
 > hurl new challenges at the stars
 
 ## Where
-🌐 I live in the UK, but I love to come back to Italy every 6 months
+I live in the UK, but I love to come back to Italy every 6 months
 
 ## Hobbies
 * Reading
@@ -110,11 +110,11 @@ will help man to
 * Boxing (missing real training 😔)
 
 ## Blog
-✍ I write things on [Medium](https://rapaccinim.medium.com/)
+I write things on [Medium](https://rapaccinim.medium.com/)
 
 ## Let's connect
 * [Website](https://www.webproduct.dev/)
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
 * [Twitter](https://twitter.com/RapacciniM)
 
-👋 Have a nice day folks!
+Have a nice day folks!
