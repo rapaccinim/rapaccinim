@@ -95,7 +95,7 @@ a list of my contributions and articles.
 * Spanish
 
 ## Why
-✨ Because technology – to paraphrase [Marinetti](https://www.youtube.com/watch?v=YFPIP9NxU30) –
+Because technology – to paraphrase [Marinetti](https://www.youtube.com/watch?v=YFPIP9NxU30) –
 will help man to
 > hurl new challenges at the stars
 
@@ -107,7 +107,7 @@ I live in the UK, but I love to come back to Italy every 6 months
 * Lego
 * Re-watching _The Office_ (USA version)
 * Hiking
-* Boxing (missing real training 😔)
+* Boxing
 
 ## Blog
 I write things on [Medium](https://rapaccinim.medium.com/)
