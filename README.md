@@ -4,11 +4,11 @@
 A Senior Software Engineer in love with web engineering, product development, R&D and international teams
 
 ## About
-I'm Marco Rapaccini, a **human being** working in tech since 2016
+* I'm Marco Rapaccini, a **human being** working in tech since 2016
 
-I'm in love with **R&D** and startups
+* I'm in love with **R&D** and startups
 
-I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
+* I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 
 ## What I am currently doing
 * Senior Software Engineer at [Citizens Advice](https://citizensadvice.org.uk)
@@ -39,6 +39,7 @@ into the UK
   * Okta
 * Moving to serverless and micro-services
 * Onboarding and mentoring new developers
+
 ### Contract Web Development
 * Italy-based freelance activity as web developer, working mainly for Italian SMEs and research centers
 * Nov 2018 - Nov 2021
@@ -51,6 +52,7 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
   * [Simecom](https://www.simecom.it/)
   * [Federica Mastro](https://dottoressamastro.com/)
   * [Dovely](https://dovely.it/?lang=en)
+
 ### Lacuna Solutions
 * Web UI Developer
 * Sep 2016 - Jul 2017
