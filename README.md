@@ -4,15 +4,11 @@
 A Senior Software Engineer in love with startups, product development, R&D and tech for good
 
 ## My Services
-🔣 Custom Software Development
-
-📶 IoT & Wearables Prototyping
-
-🆕 Digital Transition Consulting
-
-🆙 Tech Booster for Startups & SMEs
-
-🆒 Web Applications Artisan
+* Custom Software Development
+* IoT & Wearables Prototyping
+* Digital Transition Consulting
+* Tech Booster for Startups & SMEs
+* Web Applications Artisan
 
 ## About
 * I'm Marco Rapaccini, a **human being** working in tech since 2016
