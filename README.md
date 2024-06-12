@@ -107,6 +107,7 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
 * htmx
 * JavaScript
 * Node.js
+* Express
 * TypeScript
 * React
 * Okta
