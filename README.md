@@ -16,8 +16,7 @@ A Senior Software Engineer in love with startups, product development, R&D and t
 * I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 * I am based in the Lake District, UK
 
-## What I am currently doing
-* CTO at a Stealth Wine-related Startup, 2024 - present
+## Generalist Experience
 * Technical Co-Founder at [Smart Ergonomics Ltd](https://smartergonomics.co.uk), 2024 - present
   * developing MVP of a smart ergonomic chair with sensors and dedicated mobile app to improve posture and wellbeing in the workplace
 * Technical Co-Founder and Director at [Umbria Green Heart Ltd](https://umbriagreenheart.co.uk/), 2023 - present
@@ -40,9 +39,8 @@ A Senior Software Engineer in love with startups, product development, R&D and t
   * supply chain setup and management
   * managed 1-year-long engineering research and development
   * managed technology transfer towards [aerospace customer](https://www.umbragroup.com/)
-  * work-in-progress: creating a European Luxury FashionTech cluster
 
-## Previous Working Experience
+## Specialist Experience
 ### Citizens Advice (charity)
 * **Senior Software Engineer** at [Citizens Advice](https://www.citizensadvice.org.uk/)
 * Aug 2022 - June 2024
