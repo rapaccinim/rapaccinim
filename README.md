@@ -122,6 +122,10 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
 * WordPress
 * git/GitHub
 
+## Education
+* Bachelor's Degree in Computer Science (110/110) at [University of Perugia](https://www.unipg.it/en/)
+with a thesis about [_Cyberwarfare: definitions, case studies and analysis_](https://www.academia.edu/37086526/Cyberwarfare_definizioni_casi_di_studio_e_analisi).
+
 ## My Public Contributions
 You can find [here](https://github.com/rapaccinim/rapaccinim/blob/main/public-contributions/marco-rapaccini-public-contributions.md)
 a list of my contributions and articles.
