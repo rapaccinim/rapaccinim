@@ -1,8 +1,8 @@
 # Marco Rapaccini
 ## Combining Tech, Business & Human skills
 ## Tl;dr:
-Coming from software engineering, being a technical cofounder,
-after years of working closely with customers while improving sales skills, **I want to land a Solutions/Sales Engineer job**.
+Technical co-founder with extensive software engineering background and proven track record in customer relations,
+seeking to leverage hands-on experience and refined sales acumen in a **Solutions/Sales Engineer role**.
 
 ## What I Can Do
 * Problem Solving as a Service
