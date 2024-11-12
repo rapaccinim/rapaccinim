@@ -1,9 +1,10 @@
 # Marco Rapaccini
-## Senior Software Engineer && Technical Cofounder
+## Combining Tech, Business & Human skills
 ## Tl;dr:
-A Senior Software Engineer in love with startups, product development, R&D and tech for good
+Coming from software engineering, being a technical cofounder,
+after years of working closely with customers while improving sales skills, **I want to land a Solutions/Sales Engineer job**.
 
-## My Services
+## What I Can Do
 * Problem Solving as a Service
 * Custom Software Development
 * IoT & Wearables Prototyping
@@ -11,8 +12,8 @@ A Senior Software Engineer in love with startups, product development, R&D and t
 * Tech Booster for Startups & SMEs
 * Web Applications Artisan
 
-## About
-* I'm Marco Rapaccini, a **human being** working in tech since 2016
+## A Bit More About Me
+* I've been working in tech since 2016, wearing many hats: employee for SMEs and big organisations, contractor, startup cofounder
 * I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
 * I am based in the Lake District, UK
 
@@ -95,7 +96,7 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
 * Web UI Developer
 * Sep 2016 - Jul 2017
 
-## Stuff I can work with
+## My Tech Stack So Far
 * Ruby
 * Ruby on Rails
 * Arduino
@@ -121,7 +122,7 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
 * WordPress
 * git/GitHub
 
-## My public contributions
+## My Public Contributions
 You can find [here](https://github.com/rapaccinim/rapaccinim/blob/main/public-contributions/marco-rapaccini-public-contributions.md)
 a list of my contributions and articles.
 
@@ -142,9 +143,9 @@ will help man to _hurl new challenges at the stars_
 * Boxing
 
 ## Let's connect
-* email: marco[at]mywebsiteurl
+* email: [info@mrglobal.solutions](mailto:info@mrglobal.solutions)
 * [Website](https://www.webproduct.dev/)
-* [Linkedin](https://www.linkedin.com/in/marco-rapaccini/?locale=en_US)
+* [Linkedin](https://www.linkedin.com/in/marco-rapaccini/)
 * [Twitter](https://twitter.com/RapacciniM)
 * [GitHub](https://github.com/rapaccinim/)
 
