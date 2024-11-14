@@ -81,7 +81,7 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
   * Django
   * Laravel
 * Programming Languages
-  * JavaScript
+  * JavaScript/TypeScript
   * Ruby
   * PHP
   * Python
