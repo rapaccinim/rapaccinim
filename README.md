@@ -1,8 +1,8 @@
 # Marco Rapaccini
 ## Combining Tech, Business & Human skills
 ## Tl;dr:
-Technical co-founder with extensive software engineering background and proven track record in customer relations,
-seeking to leverage hands-on experience and refined sales acumen in a **Solutions/Sales Engineer role**.
+Technical co-founder with extensive software engineering background and proven track record in stakeholders relations,
+seeking to leverage hands-on experience and refined business acumen in a **Tech/Engineering role**.
 
 ## What I Can Do
 * Problem Solving as a Service
