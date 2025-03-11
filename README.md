@@ -1,5 +1,5 @@
 # Marco Rapaccini
-## Combining Tech, Business & Human skills
+> **Holistic Innovation Enabling Business**
 ## Tl;dr:
 Technical co-founder with extensive software engineering background and proven track record in stakeholders relations,
 seeking to leverage hands-on experience and refined business acumen in a **Tech/Engineering role**.
@@ -19,59 +19,64 @@ seeking to leverage hands-on experience and refined business acumen in a **Tech/
 
 ## Generalist Experience
 * Technical Co-Founder at [Smart Ergonomics Ltd](https://smartergonomics.co.uk), 2024 - present
-  * developing MVP of a smart ergonomic chair with sensors and dedicated mobile app to improve posture and wellbeing in the workplace
-* Technical Co-Founder and Director at [Umbria Green Heart Ltd](https://umbriagreenheart.co.uk/), 2023 - present
-  * importing directly fine food and wine from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy into the UK
-  * supply chain setup and management
-  * warehouse compliance
-  * Ruby on Rails custom software for import logistics, stock management and costs optimisation
-  * e-commerce integration with stock management system
-  * work-in-progress: expanding B2C sales while consolidating B2B relationships
+  * Developing MVP of a smart ergonomic chair with sensors and dedicated mobile app to improve posture and wellbeing in the workplace
+  * Applying Machine Learning (ML) algorithms to analyse and improve users' posture, behaviours and health
+  * Tech Stack: C, ESP32, React Native, Embedded Systems, Google Cloud Platform
+  * [March 2025] Leading a partnership with the [School of Engineering at Lancaster University](https://www.lancaster.ac.uk/engineering/) to develop custom sensors
+* Technical Co-Founder and Director at [Umbria Green Heart Ltd](https://umbriagreenheart.co.uk/), 2023 - 2025
+  * Importing directly fine food and wine from [Umbria](https://www.youtube.com/watch?v=4Do5DQ2R2Po), Italy into the UK
+  * Supply chain setup and management
+  * Warehouse compliance
+  * Custom software development for import logistics, stock management and costs optimisation
+  * Woocommerce online shop integration with custom stock management system
+  * Expanded B2C sales while consolidating B2B relationships
+  * Tech Stack: JavaScript, Ruby on Rails, WordPress, C, Google Cloud Platform
 * Contract Technologist for [LTE Italia srl](https://www.lte-group.eu/en/Contact/LTE-Italia-Srl.htm), 2022 - present
-  * budiling a custom security compliance management system for a railway logistics company
-* Technical Co-Founder at [Clutch-e Bag](https://www.clutchebag.com), 2019 - present
-  * built from scratch a FashionTech startup business + tech stack
-  * created a wearable MVP
-  * filed and obtained 4 patents in Italy no. 102018000003587, 102021000011681, 102021000016505 and 102021000016478
-  * supply chain setup and management
-  * managed 1-year-long engineering research and development
-  * managed technology transfer towards [aerospace customer](https://www.umbragroup.com/)
+  * Budiling a custom security compliance management system for a railway logistics company
+  * Tech stack: Ruby on Rails, JavaScript, Fly.io, Google Cloud Platform, PostgreSQL
+* Technical Co-Founder at [Clutch-e Bag](https://www.clutchebag.com), 2019 - 2025
+  * Built from scratch a FashionTech startup business + tech stack with other 3 cofounders
+  * Created a wearable MVP (smart bag with custom PCB and finger print sensor)
+  * Filed and obtained 4 patents (102018000003587, 102021000011681, 102021000016505, 102021000016478) in Italy
+  * Supply chain setup and management
+  * Managed 1-year-long engineering research and development
+  * Managed technology transfer towards [aerospace customer](https://www.umbragroup.com/)
 
 ## Specialist Experience
 ### Citizens Advice (charity),  Aug 2022 - Jun 2024
 * **Senior Software Engineer** at [Citizens Advice](https://www.citizensadvice.org.uk/)
-* helping the Casebook team to maintain and improve the [internal case management system](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4) of one of the largest charities in the UK, while respecting the privacy of the users
-* technologies: Ruby on Rails/Ruby, PostgreSQL, AWS, React, JavaScript, Cucumber, Jenkins, Accessibility Screen Readers (VoiceOver, NVDA, JAWS)
-* contributing regularly to Software Engineering Community of Practice meetings to explore new technologies
-* induction/mentoring new software engineers across different product teams
-* internal documentation reorganisation
+* Helping the Casebook team to maintain and improve the [internal case management system](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4) of one of the largest charities in the UK, while respecting the privacy of the users
+* Tech Stack: Ruby on Rails/Ruby, PostgreSQL, AWS, React, JavaScript, Cucumber, Jenkins, Accessibility Screen Readers (VoiceOver, NVDA, JAWS)
+* Contributing regularly to Software Engineering Community of Practice meetings to explore new technologies
+* Induction/mentoring new software engineers across different product teams
+* Internal documentation reorganisation
 
 ### Italian Folklore Museum 
 * Amazon Alexa Skills development (contract work) for the [Italian Folklore Museum](https://museoimmaginario.net/immaginario/en/), improving accessibility for visually impaired
-* technologies: Alexa Skills Kit SDK, Python, Node.js, Spreaker APIs
+* Tech Stack: Alexa Skills Kit SDK, Python, Node.js, Spreaker APIs
 
 ### Transaction 360 Degrees LTD (FinTech)
 * **Senior Software Engineer** at [Transaction 360 Degrees LTD](https://t360degrees.com)
 * Aug 2020 - Sep 2022
 * Creating from scratch Fintech MVPs working closely with the business team and SW architect 
 * R&D about new integrations (e.g. Symphony financial secure messaging app)
-* technologies: TypeScript, React, Google Cloud Platform (GCP), Okta, Python
+* Technologies: TypeScript, React, Google Cloud Platform (GCP), Okta, Python
 * Moving to microservices architecture
 * Onboarding and mentoring new developers
 
 ### Past Contract Web Development
-* Italy-based freelance activity as web developer/technologist, working mainly for Italian SMEs and research centers
+* Italy-based freelance activity as web developer/technologist
 * Nov 2018 - Nov 2021
 * Some clients/projects:
-  * [Water Resources Research & Documentation Centre](https://warredoc-unistrapg.org/en/)
+  * Research - [Water Resources Research & Documentation Centre](https://warredoc-unistrapg.org/en/)
 at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
-  * [University of Tuscia](https://www.unitus.it/en/)
-  * [Nuova Guseo](https://www.nuovaguseo.eu/en/)
-  * [Ermesat](https://www.ermesat.it/)
-  * [Simecom](https://www.simecom.it/)
-  * [Federica Mastro](https://dottoressamastro.com/)
+  * Research - [University of Tuscia](https://www.unitus.it/en/)
+  * Manufacturing - [Nuova Guseo](https://www.nuovaguseo.eu/en/)
+  * Aerospace - [Ermesat](https://www.ermesat.it/)
+  * Energy - [Simecom](https://www.simecom.it/)
+  * Health - [Federica Mastro](https://dottoressamastro.com/)
 
-### Lacuna Solutions
+### BankCheck by Lacuna Solutions
 * Web UI Developer
 * Sep 2016 - Jul 2017
 
