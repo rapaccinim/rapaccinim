@@ -1,5 +1,6 @@
 # Marco Rapaccini
 > **Holistic Innovation Enabling Business**
+
 ## Tl;dr:
 Technical co-founder with extensive software engineering background and proven track record in stakeholders relations,
 seeking to leverage hands-on experience and refined business acumen in a **Tech/Engineering role**.
