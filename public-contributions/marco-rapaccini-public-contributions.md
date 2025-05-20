@@ -19,6 +19,8 @@
 * Contact Form 7 and Amazon SQS
   * [repo](https://github.com/rapaccinim/cf7-hook-4-amazon-sqs)
 ## Interesting articles
+* We asked LLMs what Programming Language they would design
+  * [Blog Article](https://www.mrglobal.solutions/blog/we-asked-llms-what-programming-language-they-would-design)
 * What I learned from my startup experiences
   * [Medium Article](https://rapaccinim.medium.com/what-i-learned-from-startup-experiences-20cfafd4a3a0)
 * surviving the `npm ERR! 404`
