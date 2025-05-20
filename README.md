@@ -47,76 +47,40 @@ seeking to leverage hands-on experience and refined business acumen in a **Tech/
 * Induction/mentoring new software engineers across different product teams
 * Internal documentation reorganisation
 
-### Italian Folklore Museum 
-* Amazon Alexa Skills development (contract work) for the [Italian Folklore Museum](https://museoimmaginario.net/immaginario/en/), improving accessibility for visually impaired
+### Italian Folklore Museum (2023)
+* Amazon Alexa Skills development (contract work) for the [Italian Folklore Museum](https://museoimmaginario.net/immaginario/en/),
+improving accessibility for visually impaired
 * Tech Stack: Alexa Skills Kit SDK, Python, Node.js, Spreaker APIs
 
-### Transaction 360 Degrees LTD (FinTech)
-* **Senior Software Engineer** at [Transaction 360 Degrees LTD](https://t360degrees.com)
-* Aug 2020 - Sep 2022
+### Transaction 360 Degrees LTD (FinTech), Aug 2020 - Sep 2022
+* **Senior Software Engineer** at Transaction 360 Degrees, now [We Get Data](https://wegetdata.io/)
 * Creating from scratch Fintech MVPs working closely with the business team and SW architect 
-* R&D about new integrations (e.g. Symphony financial secure messaging app)
+* R&D about new integrations (e.g. [Symphony](https://symphony.com/) financial secure messaging app)
 * Technologies: TypeScript, React, Google Cloud Platform (GCP), Okta, Python
 * Moving to microservices architecture
 * Onboarding and mentoring new developers
 
-### Past Contract Web Development
-* Italy-based freelance activity as web developer/technologist
-* Nov 2018 - Nov 2021
-* Some clients/projects:
+### Past Contract Web Development, Nov 2018 - Nov 2021
+* Italy-based freelance activity as web developer/technologist. Some clients/projects:
+  * FinTech - [BankCheck by Lacuna Solutions](https://www.bankcheck.io/)
   * Research - [Water Resources Research & Documentation Centre](https://warredoc-unistrapg.org/en/)
-at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
+  at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
   * Research - [University of Tuscia](https://www.unitus.it/en/)
   * Manufacturing - [Nuova Guseo](https://www.nuovaguseo.eu/en/)
   * Aerospace - [Ermesat](https://www.ermesat.it/)
   * Energy - [Simecom](https://www.simecom.it/)
   * Health - [Federica Mastro](https://dottoressamastro.com/)
 
-### BankCheck by Lacuna Solutions
-* Web UI Developer
-* Sep 2016 - Jul 2017
-
-## My Tech Stack So Far
-* MVC Frameworks
-  * Ruby on Rails
-  * Django
-  * Laravel
-* Programming Languages
-  * JavaScript/TypeScript
-  * Ruby
-  * PHP
-  * Python
-  * C
-* Databases
-  * MySQL
-  * PostgreSQL
-  * Neo4j
-* JS Frameworks/Libraries/Environments
-  * Node.js
-  * React
-  * Next.js
-  * Express
-* CRMs & Productivity Tools
-  * ClickUp
-  * SuiteCRM
-  * Zoho
-  * Monday.com
-  * Notion
-  * HubSpot
-* Other Languages
-  * SQL
-  * Bash Scripting
-* UI Libraries
-  * TailwindCSS
-  * MaterialUI
-* Cloud Technologies
-  * Google Cloud Platform (GCP)
-  * Amazon Web Services (AWS)
-* Version Control
-  * Git/GitHub
-* Other Technologies
-  * CMS WordPress
-  * Amazon Alexa Skills
+## My Tech Stack
+* **Programming Languages**: JavaScript/TypeScript, Ruby, Python, C, PHP
+* **MVC Frameworks**: Ruby on Rails, Django, Laravel
+* **Databases**: MySQL, PostgreSQL, Neo4j
+* **JavaScript Stack**: Next.js, Astro, Node.js, React, Express
+* **Other Languages**: SQL, Bash Scripting
+* **Cloud**: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+* **UI Libraries**: TailwindCSS, MaterialUI
+* **Tools**: Jenkins, GitHub Actions, ClickUp, SuiteCRM, Zoho, Monday.com, Notion, HubSpot
+* **Other Technologies**: Arduino, ESP32, CMS WordPress, Amazon Alexa Skills
 
 ## Education
 * Bachelor's Degree in Computer Science (110/110) at [University of Perugia](https://www.unipg.it/en/)
@@ -136,9 +100,7 @@ Reading, Lego, Re-watching _The Office_ (USA version), Hiking, Boxing
 
 ## Let's connect
 * [info@mrglobal.solutions](mailto:info@mrglobal.solutions)
-* [Website](https://www.webproduct.dev/)
+* [Website](https://www.mrglobal.solutions/)
 * [Linkedin](https://www.linkedin.com/in/marco-rapaccini/)
-* [Twitter](https://twitter.com/RapacciniM)
 * [GitHub](https://github.com/rapaccinim/)
-
-Have a nice day folks!
+* [X](https://x.com/rapaccinim)
