@@ -5,20 +5,13 @@
 Technical co-founder with extensive software engineering background and proven track record in stakeholders relations,
 seeking to leverage hands-on experience and refined business acumen in a **Tech/Engineering role**.
 
-## What I Can Do
-* Problem Solving as a Service
-* Custom Software Development
-* IoT & Wearables Prototyping
-* Digital Transition Consulting
-* Tech Booster for Startups & SMEs
-* Web Applications Artisan
-
 ## A Bit More About Me
 * I've been working in tech since 2016, wearing many hats: employee for SMEs and big organisations, contractor, startup cofounder
 * I consider myself a business enabler: **I transform a vision into human-friendly, working technology**
+* I love working in startup environments
 * I am based in the Lake District, UK
 
-## Generalist Experience
+## Co-Founder/Generalist Experience
 * Technical Co-Founder at [Smart Ergonomics Ltd](https://smartergonomics.co.uk), 2024 - present
   * Developing MVP of a smart ergonomic chair with sensors and dedicated mobile app to improve posture and wellbeing in the workplace
   * Applying Machine Learning (ML) algorithms to analyse and improve users' posture, behaviours and health
@@ -32,9 +25,6 @@ seeking to leverage hands-on experience and refined business acumen in a **Tech/
   * Woocommerce online shop integration with custom stock management system
   * Expanded B2C sales while consolidating B2B relationships
   * Tech Stack: JavaScript, Ruby on Rails, WordPress, C, Google Cloud Platform
-* Contract Technologist for [LTE Italia srl](https://www.lte-group.eu/en/Contact/LTE-Italia-Srl.htm), 2022 - present
-  * Budiling a custom security compliance management system for a railway logistics company
-  * Tech stack: Ruby on Rails, JavaScript, Fly.io, Google Cloud Platform, PostgreSQL
 * Technical Co-Founder at [Clutch-e Bag](https://www.clutchebag.com), 2019 - 2025
   * Built from scratch a FashionTech startup business + tech stack with other 3 cofounders
   * Created a wearable MVP (smart bag with custom PCB and finger print sensor)
@@ -43,7 +33,12 @@ seeking to leverage hands-on experience and refined business acumen in a **Tech/
   * Managed 1-year-long engineering research and development
   * Managed technology transfer towards [aerospace customer](https://www.umbragroup.com/)
 
-## Specialist Experience
+## Software Engineering Experience
+### LTE Italia (railway transport), 2022 - present
+* **Contract Technologist** for [LTE Italia srl](https://www.lte-group.eu/en/Contact/LTE-Italia-Srl.htm)
+* Building a custom security compliance management system for a railway logistics company
+* Tech stack: Ruby on Rails, JavaScript, Fly.io, Google Cloud Platform, PostgreSQL
+
 ### Citizens Advice (charity),  Aug 2022 - Jun 2024
 * **Senior Software Engineer** at [Citizens Advice](https://www.citizensadvice.org.uk/)
 * Helping the Casebook team to maintain and improve the [internal case management system](https://wearecitizensadvice.org.uk/casebook-an-intro-to-whats-been-happening-and-why-4b33b3ea31e4) of one of the largest charities in the UK, while respecting the privacy of the users
@@ -91,26 +86,23 @@ at [University for Foreigners of Perugia](https://www.unistrapg.it/en)
   * Ruby
   * PHP
   * Python
+  * C
 * Databases
   * MySQL
   * PostgreSQL
   * Neo4j
-* Low-level Programming
-  * C/C++
-  * Arduino
 * JS Frameworks/Libraries/Environments
   * Node.js
   * React
   * Next.js
   * Express
-  * Leaflet
-  * jQuery
 * CRMs & Productivity Tools
   * ClickUp
   * SuiteCRM
   * Zoho
   * Monday.com
   * Notion
+  * HubSpot
 * Other Languages
   * SQL
   * Bash Scripting
